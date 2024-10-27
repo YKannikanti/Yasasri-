@@ -1,0 +1,5 @@
+Data files not provided.
+Risk is a numeric value. 
+BMI calculation is backward.
+DYSPNEA calculation is incorrect and doesn't take into consideration file data.
+Number of beds was provided in the hospital data file.
